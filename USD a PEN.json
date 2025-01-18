@@ -1,0 +1,11 @@
+{
+  "result": "success",
+  "time_last_update_unix": 1737158401,
+  "time_last_update_utc": "Sat, 18 Jan 2025 00:00:01 +0000",
+  "time_next_update_unix": 1737244801,
+  "time_next_update_utc": "Sun, 19 Jan 2025 00:00:01 +0000",
+  "base_code": "USD",
+  "target_code": "PEN",
+  "conversion_rate": 3.77,
+  "conversion_result": 37.7
+}
